@@ -41,8 +41,7 @@ Me apasiona construir aplicaciones web modernas, limpias y funcionales, y estoy 
 ## 📫 Conecta conmigo
 
 📧 **Email:** [Iranialiceaustin@gmail.com](mailto:Iranialiceaustin@gmail.com)  
-🔗 **LinkedIn:** *(Actualiza con tu URL real)*  
-https://linkedin.com/in/tuusuario  
+
 
 ---
 
